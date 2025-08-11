@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
       else if (badge.classList.contains('earlysupporter')) tooltipText = 'Early Supporter';
       else if (badge.classList.contains('fire')) tooltipText = 'ζξζ ι ζξζ';
       else if (badge.classList.contains('graphic')) tooltipText = 'Graphic Designer';
-      else if (badge.classList.contains('imagehost')) tooltipText = 'Early OG';
+      else if (badge.classList.contains('imagehost')) tooltipText = 'Early';
       else if (badge.classList.contains('og')) tooltipText = 'OG';
       else if (badge.classList.contains('sweet')) tooltipText = 'Candy';
       else if (badge.classList.contains('patrick')) tooltipText = 'Image Host';
